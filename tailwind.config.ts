@@ -47,6 +47,12 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        quiz: {
+          correct: "hsl(var(--quiz-correct))",
+          incorrect: "hsl(var(--quiz-incorrect))",
+          neutral: "hsl(var(--quiz-neutral))",
+          highlight: "hsl(var(--quiz-highlight))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
